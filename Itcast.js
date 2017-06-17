@@ -1,6 +1,6 @@
-(function ( window ) {
+﻿(function ( window ) {
 
-var arr = [],
+var arr = [ ],
     push = arr.push,
     slice = arr.slice;
 
